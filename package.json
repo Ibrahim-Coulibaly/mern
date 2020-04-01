@@ -3,5 +3,10 @@
   "workspaces": [
     "frontend",
     "backend"
-  ]
+  ],
+  "name": "mern-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "C:\\Program Files\\MongoDB\\Server\\4.2\\bin",
+  "license": "MIT"
 }
